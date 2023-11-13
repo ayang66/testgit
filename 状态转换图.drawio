@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" modified="2023-11-12T14:40:31.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="grrNXVitywnMS0KOcU-E" version="22.1.0" type="device">
+  <diagram name="第 1 页" id="eLo1M40829DFhcDeCd4r">
+    <mxGraphModel dx="1002" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AVkclaV6aCcv9P6x20m1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="AVkclaV6aCcv9P6x20m1-1" target="AVkclaV6aCcv9P6x20m1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-1" value="用户需求" style="swimlane;startSize=60;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-4" value="想要结伴旅游" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="AVkclaV6aCcv9P6x20m1-1">
+          <mxGeometry x="15" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="AVkclaV6aCcv9P6x20m1-5" target="AVkclaV6aCcv9P6x20m1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-5" value="登录" style="swimlane;startSize=60;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="310" y="430" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-7" value="登录“爱游”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="330" y="498" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="AVkclaV6aCcv9P6x20m1-8" target="AVkclaV6aCcv9P6x20m1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="AVkclaV6aCcv9P6x20m1-8" target="AVkclaV6aCcv9P6x20m1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-8" value="用户匹配" style="swimlane;startSize=60;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="310" y="630" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-9" value="查找攒局" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="335" y="698" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-10" value="攒局成功" style="swimlane;startSize=60;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="110" y="880" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="AVkclaV6aCcv9P6x20m1-11" target="AVkclaV6aCcv9P6x20m1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-11" value="找到理想攒局" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="948" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="AVkclaV6aCcv9P6x20m1-12" target="AVkclaV6aCcv9P6x20m1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-12" value="没有理想攒局" style="swimlane;startSize=60;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="880" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-13" value="未找到理想攒局" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="948" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-14" value="开始旅行" style="swimlane;startSize=60;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1290" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-15" value="结伴旅游收获友谊和快乐" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="AVkclaV6aCcv9P6x20m1-14">
+          <mxGeometry x="-10" y="70" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="AVkclaV6aCcv9P6x20m1-16" target="AVkclaV6aCcv9P6x20m1-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-16" value="攻略制作" style="swimlane;startSize=60;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1200" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-18" value="构思攻略" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="545" y="1268" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="AVkclaV6aCcv9P6x20m1-19" target="AVkclaV6aCcv9P6x20m1-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-19" value="创立攒局" style="swimlane;startSize=60;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1420" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-20" value="发布攻略建立攒局" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1488" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="AVkclaV6aCcv9P6x20m1-21" target="AVkclaV6aCcv9P6x20m1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-21" value="攒局成功" style="swimlane;startSize=60;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1620" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-22" value="成功成立攒局" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1688" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-38" value="了解“爱游”" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-39" value="用户明确目的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="578" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-40" value="攒局筛选" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="758" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-41" value="攒局筛选" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="748" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-42" value="结伴旅游" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1078" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-44" value="构想旅游攻略" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1038" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-45" value="发布想法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="1358" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-46" value="寻找驴友" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1558" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AVkclaV6aCcv9P6x20m1-47" value="结伴出行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1528" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

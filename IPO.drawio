@@ -1,0 +1,70 @@
+<mxfile host="www.draw.io" modified="2023-11-12T13:07:32.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cgxeov_8mxbe6AKTseUx" version="22.1.0" type="device">
+  <diagram name="第 1 页" id="14HZOLroqGI4e59QuSrQ">
+    <mxGraphModel dx="1194" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;" parent="1" source="qhkB4AXkvJiFK3q6KTm2-2" target="qhkB4AXkvJiFK3q6KTm2-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="130" width="180" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" parent="1" source="qhkB4AXkvJiFK3q6KTm2-3" target="qhkB4AXkvJiFK3q6KTm2-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="130" width="180" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="130" width="180" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-5" value="攒局标签" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-6" value="好友名称" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-7" value="点击收藏攻略" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-9" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="90" y="585" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-10" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="360" y="590" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-11" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;输出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="620" y="590" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-12" value="编写攻略发布攒局" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-25" value="匹配相关攒局信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-26" value="搜索好友列表中是否有该好友" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-27" value="攻略添加我的收藏列表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-28" value="根据索引热度等推荐给其他用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-30" value="页面上显示相关攒局" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-31" value="如果有则跳转到该好友聊天界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-32" value="我的收藏列表显示收藏帖子" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qhkB4AXkvJiFK3q6KTm2-33" value="其他用户选择加入攒局结伴出行" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

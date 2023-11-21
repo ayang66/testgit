@@ -1,0 +1,156 @@
+<mxfile host="app.diagrams.net" modified="2023-11-19T12:47:10.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="NDEEF6Fl_4vrRjtoyett" version="22.1.3" type="device">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1002" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LNOKrHgC-utzztskLwtO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-1" target="LNOKrHgC-utzztskLwtO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-1" target="LNOKrHgC-utzztskLwtO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-1" target="LNOKrHgC-utzztskLwtO-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="408" y="140" />
+              <mxPoint x="408" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-1" target="LNOKrHgC-utzztskLwtO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-1" target="LNOKrHgC-utzztskLwtO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-1" value="服务端中心控制模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-2" value="处理客户端消息模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-3" target="LNOKrHgC-utzztskLwtO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-3" target="LNOKrHgC-utzztskLwtO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-3" target="LNOKrHgC-utzztskLwtO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-3" value="查询统计模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-4" value="日志记录模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-5" target="LNOKrHgC-utzztskLwtO-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-5" target="LNOKrHgC-utzztskLwtO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-5" value="帐户管理控制模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-6" target="LNOKrHgC-utzztskLwtO-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-6" target="LNOKrHgC-utzztskLwtO-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-6" target="LNOKrHgC-utzztskLwtO-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-6" value="攒局控制模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-7" target="LNOKrHgC-utzztskLwtO-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-7" value="数据解密、安全校验" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-8" value="查询统计操作" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="350" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-9" value="操作结果发送至客户端" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-21" value="获取客户端查询统计结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-23" target="LNOKrHgC-utzztskLwtO-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-23" target="LNOKrHgC-utzztskLwtO-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-23" target="LNOKrHgC-utzztskLwtO-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-23" value="账户开户控制模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="450" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-24" target="LNOKrHgC-utzztskLwtO-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-24" target="LNOKrHgC-utzztskLwtO-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-24" target="LNOKrHgC-utzztskLwtO-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-24" value="账户信息修改控制模块" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="450" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-25" target="LNOKrHgC-utzztskLwtO-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-25" value="数据解密、安全校验" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="585" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-27" value="开户操作" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="585" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-30" value="操作结果发送至客户端" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="585" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-32" value="获取客户端开户数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-34" target="LNOKrHgC-utzztskLwtO-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-34" value="数据解密、安全校验" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="585" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-35" value="修改操作" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="585" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-36" value="操作结果发送至客户端" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="710" y="585" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-40" value="获取客户端新账户信息数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LNOKrHgC-utzztskLwtO-46" target="LNOKrHgC-utzztskLwtO-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-46" value="数据解密、安全校验" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="350" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-47" value="开户操作" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="670" y="350" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-48" value="操作结果发送至客户端" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="740" y="350" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNOKrHgC-utzztskLwtO-52" value="获取客户端新账户信息数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="420" width="90" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
